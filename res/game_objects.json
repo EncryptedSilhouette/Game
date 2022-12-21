@@ -1,0 +1,16 @@
+[
+  {
+    "id": "player",
+    "components":
+    [
+      {
+        "id": "Transform"
+      },
+
+      {
+        "id": "Renderer",
+        "sprite": "player"
+      }
+    ]
+  }
+]
